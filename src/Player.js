@@ -13,7 +13,7 @@ function Player({ spotify }) {
             </div>
             <Footer />
         </div>
-    )
+    );
 }
 
 export default Player

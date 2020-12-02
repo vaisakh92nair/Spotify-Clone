@@ -24,7 +24,7 @@ function Sidebar() {
                <SidebarOption title={playlist.name}/>
            ))}
         </div>
-    )
+    );
 }
 
 export default Sidebar
